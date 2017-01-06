@@ -1,0 +1,29 @@
+# Jekyll configuration
+
+name: L&N STEMpunks
+description: FRC#3966 Programming Blog
+
+# url is currently only used only for the RSS feed in feed.xml
+url: lnstempunks.org
+
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+
+# This can be '' to hide the Github nav button
+github: 'ln-stempunks/ln-stempunks.github.io'
+
+permalink: /:year/:month/:title
+paginate: 3
+
+highlighter: rouge
+markdown: kramdown
+gems:
+  - 'jekyll-paginate'
+  - 'jekyll-redirect-from'
+
+exclude:
+  - 'README.md'
+  - 'new-post.sh'
+
