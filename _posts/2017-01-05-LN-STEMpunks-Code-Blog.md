@@ -19,9 +19,9 @@ Here's a short history of the programming group:
   * Ben Klein became leader of programming
 
 
-2012:
+2011:
   
-  * Sam Stair became leader of programming
+  *  Jonathan Reddington became leader of programming
 
 
 
