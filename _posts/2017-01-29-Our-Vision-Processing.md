@@ -44,5 +44,3 @@ Then, we take their centers, average them, and predict the spring to be there (i
 
 Through an analogous process, we will find the goal and publish it.
 
-
-TODO: Coming whenever we are done.
