@@ -4,7 +4,7 @@ title: A New Year Begins
 category: articles
 ---
 
-![First Power Up Logo](/assets/images/frc18logo.png){width:512px; height:384px;}
+![First Power Up Logo](/assets/images/frc18logo.png =512x384)
 
 With the 2018 build season nearing, the programming team looks ahead to the future. 
 
