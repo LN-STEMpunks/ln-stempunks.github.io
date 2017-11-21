@@ -21,7 +21,7 @@ Here's a short history of the programming group:
 
 2011:
   
-  *  Jonathan Reddington became leader of programming
+  * Jonathan Reddington became leader of programming
 
 
 
