@@ -58,8 +58,8 @@ O = Orange
       <u>Ownership (Scale): 2 + 2/sec</u>  
       Total:            9 + 4/sec
 
-Start | Switch | Scale
---- | --- | --- 
+Start  | Switch | Scale
+---  | --- | --- 
 R | R | R
 R | R | L
 R | L | L
@@ -73,35 +73,35 @@ M | L | R
 
 
 
-![Right, Right, Right](/assets/images/Right, Right, Right.png)
+![Right, Right, Right](/assets/images/Right, Right, Right.png =512x384)
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the right side of the switch and the scale.
 
-![Right, Right, Left](/assets/images/Right, Right, Left.png)
+![Right, Right, Left](/assets/images/Right, Right, Left.png =512x384)
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the right side of the switch and the left side of the scale.
 
-![Right, Left, Right](/assets/images/Right, Left, Right.png)
+![Right, Left, Right](/assets/images/Right, Left, Right.png =512x384)
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the left side of the switch and the right side of the scale.
 
-![Right, Left, Left](/assets/images/Right, Left, Left.png)
+![Right, Left, Left](/assets/images/Right, Left, Left.png =512x384)
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the left side of the switch and the scale.
 
-![Middle, Right, Right](/assets/images/Middle, Right, Right.png)
+![Middle, Right, Right](/assets/images/Middle, Right, Right.png =512x384)
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the right side of the switch and the scale.
 
-![Middle, Right, Left](/assets/images/Middle, Right, Left.png)
+![Middle, Right, Left](/assets/images/Middle, Right, Left.png =512x384)
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the right side of the switch and the left side of the scale.
 
-![Middle, Left, Right](/assets/images/Middle, Left, Right.png)
+![Middle, Left, Right](/assets/images/Middle, Left, Right.png =512x384)
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the left side of the switch and the right side of the scale.
 
-![Middle, Left, Left](/assets/images/Middle, Left, Left.png)
+![Middle, Left, Left](/assets/images/Middle, Left, Left.png =512x384)
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the left side of the switch and the scale.
 
