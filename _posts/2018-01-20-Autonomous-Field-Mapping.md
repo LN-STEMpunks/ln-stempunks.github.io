@@ -68,6 +68,7 @@ M | R | R
 M | R | L
 M | L | L
 M | L | R
+{: .table .table-bordered }
 
 *Left start position will be reverse as right
 
@@ -120,6 +121,7 @@ Points
 **MRL** | Pu | Pi | O | B | G
 **MLL** | Pu | Pi | O | B | G
 **MLR** | Pu | O | Pi | B | G
+{: .table .table-bordered }
 
 Simplicity
 ==========
@@ -133,6 +135,7 @@ Simplicity
 **MRL** | B | G | Pu | Pi | O
 **MLL** | B | G | Pu | Pi | O
 **MLR** | B | G | Pu | O | Pi
+{: .table .table-bordered }
 
 We look forward to using these diagrams to work with our game strategy team and determine what autonomous programs will be beneficial.
 
