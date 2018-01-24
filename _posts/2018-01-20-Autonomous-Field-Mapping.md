@@ -101,7 +101,7 @@ This diagram shows the paths available if the team starts in the middle of the a
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the left side of the switch and the right side of the scale.
 
-![Middle, Left, Left](/assets/images/Middle, Left, Left.png){width=100%}
+![Middle, Left, Left](/assets/images/Middle, Left, Left.png){img-responsive}
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the left side of the switch and the scale.
 
