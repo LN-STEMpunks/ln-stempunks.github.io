@@ -110,7 +110,8 @@ This diagram shows the paths available if the team starts in the middle of the a
 
 Points
 ======
----    |--- |--- |---|---|---
+
+---    | --- | --- | --- | --- | ---
 **RRR** | Pu | Pi | O | B | G
 **RRL** | Pu | O | Pi | B | G
 **RLL** | Pu | Pi | O | B | G
@@ -122,7 +123,8 @@ Points
 
 Simplicity
 ==========
----    |---|---|--- |--- |---
+
+---    | --- | --- | --- | --- | ---
 **RRR** | B | G | Pu | Pi | O
 **RRL** | B | G | Pu | O | Pi
 **RLL** | B | G | Pu | Pi | O
