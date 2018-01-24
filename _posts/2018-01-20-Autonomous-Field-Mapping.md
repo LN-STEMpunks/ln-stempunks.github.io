@@ -73,35 +73,35 @@ M | L | R
 
 
 
-![Right, Right, Right](/assets/images/Right, Right, Right.png){width=100%}
+![Right, Right, Right](/assets/images/Right, Right, Right.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the right side of the switch and the scale.
 
-![Right, Right, Left](/assets/images/Right, Right, Left.png){width=100%}
+![Right, Right, Left](/assets/images/Right, Right, Left.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the right side of the switch and the left side of the scale.
 
-![Right, Left, Right](/assets/images/Right, Left, Right.png){width=100%}
+![Right, Left, Right](/assets/images/Right, Left, Right.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the left side of the switch and the right side of the scale.
 
-![Right, Left, Left](/assets/images/Right, Left, Left.png){width=100%}
+![Right, Left, Left](/assets/images/Right, Left, Left.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts on the right side of the alliance station and has the left side of the switch and the scale.
 
-![Middle, Right, Right](/assets/images/Middle, Right, Right.png){width=100%}
+![Middle, Right, Right](/assets/images/Middle, Right, Right.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the right side of the switch and the scale.
 
-![Middle, Right, Left](/assets/images/Middle, Right, Left.png){width=100%}
+![Middle, Right, Left](/assets/images/Middle, Right, Left.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the right side of the switch and the left side of the scale.
 
-![Middle, Left, Right](/assets/images/Middle, Left, Right.png){width=100%}
+![Middle, Left, Right](/assets/images/Middle, Left, Right.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the left side of the switch and the right side of the scale.
 
-![Middle, Left, Left](/assets/images/Middle, Left, Left.png){img-responsive}
+![Middle, Left, Left](/assets/images/Middle, Left, Left.png){: .img-responsive }
 
 This diagram shows the paths available if the team starts in the middle of the alliance station and has the left side of the switch and the scale.
 
