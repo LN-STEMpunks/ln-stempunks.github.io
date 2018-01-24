@@ -10,12 +10,12 @@ After attending the 2018 FIRST Kickoff, the programming team decided to make dia
 Alt-Key for Diagrams:
 ------
 
-Pc = Power cube
-B = Black
-G = Green
-Pi = Pink
-Pu = Purple
-O = Orange
+Pc = Power cube  
+B = Black  
+G = Green  
+Pi = Pink  
+Pu = Purple  
+O = Orange  
 
 **Red:**
 * Displays position on the alliance station as well as which side of switch and scale are possessed
